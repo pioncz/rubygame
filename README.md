@@ -1,4 +1,8 @@
 rubygame
 ========
 
-Simple game made in gosu
+Simple game made in gosu.
+
+Requirements:
+
+* Gosu - run `gem install gosu`
